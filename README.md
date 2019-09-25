@@ -1,1 +1,1 @@
-# education-arduino-morze
+# Arduino morse
